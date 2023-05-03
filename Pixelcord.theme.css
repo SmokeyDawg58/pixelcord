@@ -85,7 +85,7 @@ html.newBrand,
 
 .theme-light {
   --accent: var(--primary-700);
-  --accent-selected-highlight: rgba(28, 116, 233, 12%);
+  --accent-selected-highlight: rgba(122, 122, 122, 12%);
   --accent-highlight: var(--primary-500);
   --accent-text: white;
   --text-semidark: rgb(149, 149, 149);
